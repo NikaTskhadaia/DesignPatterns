@@ -6,9 +6,9 @@ Creational:
 	Abstract Factory
 
 Structural:	
-	Adapter
+	Adapter ✔
 	Bridge
-	Composite
+	Composite ✔
 	Decorator ✔
 	Facade ✔
 	Flyweight
@@ -17,7 +17,7 @@ Structural:
 Behavioral:
 	Chain Of Responsibility
 	Command
-	iterator
+	iterator ✔
 	Mediator ✔
 	Memento
 	Observer
